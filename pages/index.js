@@ -3,7 +3,6 @@ import { getProductsInCollection } from "../lib/shopify";
 import ProductList from "../components/ProductList";
 
 const Home = ({ products }) => {
-  console.log(products);
   return (
     <div className="text-3xl">
       <ProductList products={products} />
