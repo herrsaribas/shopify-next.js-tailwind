@@ -4,7 +4,7 @@
 ![68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303532342f343339302f363230372f66](https://user-images.githubusercontent.com/77645494/236155454-65b57bf1-2dfc-4b6a-88f6-705fc0f92bad.gif)
 
 
-This is a production-ready headless Shopify storefront built with Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and deployed on Vercel. This project is based on the "Learn Shopify + Next.js + Tailwind CSS" course available at [www.BuildNextShop.com](http://www.BuildNextShop.com).
+This is a production-ready headless Shopify storefront built with Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and deployed on Vercel. This project is based on the "Learn Shopify + Next.js + Tailwind CSS" course available at [www.BuildNextShop.com]([http://www.BuildNextShop.com](https://shopify-next-js-tailwind-eosin.vercel.app/)).
 
 ## Overview
 
